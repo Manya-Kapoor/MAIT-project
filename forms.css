@@ -1,0 +1,77 @@
+h3{
+    font-family: Calibri; 
+    font-size: 25pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:rgb(22, 45, 175);
+    text-align: center; 
+    /* text-decoration: underline */
+  }
+p{font-family: Calibri; 
+  font-size: 10pt;         
+  font-style: normal; 
+  /* font-weight: bold;  */
+  color:rgb(11, 18, 55);
+  text-align: center;
+  margin: 10px; 
+
+}
+  
+  table{
+    font-family: Calibri; 
+    color:black; 
+    font-size: 11pt; 
+    font-style: normal;
+    font-weight: bold;
+    text-align:left; 
+    /* background-color: rgb(94, 126, 231);  */
+    border-collapse: collapse; 
+    /* border: 2px solid navy */
+    padding: 10px;
+  }
+  table.inner{
+   border:0px
+  }
+
+.text{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid rgb(56, 56, 56);
+  border-radius: 3px;
+}
+
+input:hover{
+  background-color: rgb(233, 233, 233);
+}
+
+#address{
+  width: 100%;
+  padding: 10px;
+  border: 1px solid rgb(56, 56, 56);
+  border-radius: 3px;
+}
+
+#submit{
+  padding: 5px;
+  background-color: rgb(34, 34, 172);
+  color: white;
+  margin: 3px;
+}
+#reset{
+  padding: 5px;
+  background-color: rgb(34, 34, 172);
+  color: white;
+  margin: 3px;
+}
+.container{
+  /* display: inline-block; */
+  margin: auto;
+  /* justify-content: center; */
+  /* justify-self: center; */
+  padding: 20px;
+  background-color: white;
+}
+
+body{
+  background-color:rgb(88, 88, 216) ;
+}
